@@ -1,0 +1,22 @@
+.fa-brands::after{
+    content: " Instagram";
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.offcanvas-body{
+    margin-top: 1vh;
+}
+
+.buttons-modal{
+    margin-top: 1vh;
+}
+
+.dropdown-item{
+    font-weight: bold;
+}
+
+#redDrop{
+    color: red;
+}
